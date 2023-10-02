@@ -4,7 +4,6 @@
 * [About](#about-living-histories)
 * [Video](#living-histories-walkthrough-video)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Code Examples](#code-examples)
 * [Features](#living-histories-features)
 * [Status](#status)
@@ -22,11 +21,6 @@ JavaScript ES6
 
 HTML5 / CSS3
 
-## Setup
-
-1. To run this project, please go to the [Piggy Backend repo](https://github.com/NyaradzoUBere/Piggy-WebApp-Backend)
-2. Run ~ lite-server in your front-end directory
-3. [Click here!](http://localhost:3001)
 
 ## Code Examples
 
