@@ -48,13 +48,13 @@ function sumExpenses(user){
 }
 ```
 ## Living Histories Features
-* Input and track expenses
-* Visualize expenses through a colored donut chart
-* Provide finance and budgetting resources
+* Interactive island map to access interviews from specific regions.
+* Present and Visualize content in an organized manner.
+* Provide oral histories and cultural practices for all generations. 
 
 
 To-Do List:
-* Add Searching feature for interview pages
+* Add searching feature to quickly access selected interviews
 
 ## Status
 Completed, Not hosted.
