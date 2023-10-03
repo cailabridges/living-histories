@@ -11,10 +11,11 @@
 * [Contact](#contact)
 
 ## About Living Histories
-Piggy is an expense tracker for users. Users get some insight about what their "piggy bank" is being spent on through a list breakdown of their expenses along with a chart breakdown of total expenses. Resources are also provided to the user to increase their financial literacy and budgetting habits.
+Living Histories is a multi-year multidisciplinary project spearheaded by Prof. Scott Townsend and based in Kefalonia (Κεφαλονια), the sixth largest Greek island. The focus of Living Histories is the documentation of the experiences, practices, values, and history of Kefalonia and its people. I and eight other students in the 2022 program cohort worked collaboratively to build and populate a website for all of the research done to date, including interviews, photography, cultural practices, and social values.
 
 ## Living Histories Walkthrough Video
-[Living Histories Walkthrough](https://youtu.be/nrF-XjUx4oI)
+[Living Histories Walkthrough Video](https://youtu.be/nrF-XjUx4oI)
+[Living Histories Website]  (https://www.imaginarycountry.org/www_09/726/Index.html)
 
 ## Technologies
 JavaScript ES6
@@ -57,12 +58,12 @@ To-Do List:
 * Add searching feature to quickly access selected interviews
 
 ## Status
-Completed, Not hosted.
+Phase 1 completed (on-going)
 
 This web app was created to be continually built upon by later researchers and residents of Kefalonia,Greece.
 
 ## Why Living Histories?
-I created this app because of my personal affinity for finance. Being a recent graduate of both finance and accounting, I constantly think about the ways I am breaking out my daily, weekly, and monthly income. This app serves as a beginner's resource for those just now thinking about how finance plays into their lives and ways to improve financial habits.
+During my time in Kefalonia, I had the opportunity to be immersed within the island's culture, taste its traditional foods, and form relationships with it's people. It was a pleasure to be involved in building a web app that contained a manifestation of Kefalonia's hisotry and practices. I sharpened my technical skills with HTML, CSS and Javascript during its construction. I enhanced my ability to manage time, team collaboration and research content to bring the porject to completeion within the five week program.
 
 ## Contact
 Created by [Caila Bridges](https://www.linkedin.com/feed/)
