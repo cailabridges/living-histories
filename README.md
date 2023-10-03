@@ -1,4 +1,4 @@
-# Project 1: Living histories
+# [Project 1: Living histories](https://www.imaginarycountry.org/www_09/726/Index.html)
 
 ## Table of Contents
 * [About](#about-living-histories)
@@ -15,7 +15,6 @@ Living Histories is a multi-year multidisciplinary project spearheaded by Prof. 
 
 ## Living Histories Walkthrough Video
 [Living Histories Walkthrough Video](https://youtu.be/nrF-XjUx4oI)
-[Living Histories Website]  (https://www.imaginarycountry.org/www_09/726/Index.html)
 
 ## Technologies
 JavaScript ES6
