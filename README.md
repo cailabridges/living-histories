@@ -1,4 +1,4 @@
-# [Project 1: Living histories](https://www.imaginarycountry.org/www_09/726/Index.html)
+# [Living histories](https://www.imaginarycountry.org/www_09/726/Index.html)
 
 ## Table of Contents
 * [About](#about-living-histories)
